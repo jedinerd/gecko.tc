@@ -1,0 +1,10 @@
+{
+  "app": "python3 app.py",
+  "context": {
+    "namespace": "static-site",
+    "domain_name": "gecko.tc",
+    "enable_s3_website_endpoint": false,
+    "hosted_zone_id": "Z04891571SA2K44C45HX9",
+    "hosted_zone_name": "gecko.tc."
+  }
+}
